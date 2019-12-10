@@ -1,0 +1,2 @@
+# idea
+Record ideas
